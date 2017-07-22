@@ -1,0 +1,38 @@
+How To Install R and rstudio on Ubuntu 16.04 
+
+Prerequisites:
+To follow along, you will need an Ubuntu 16.04 server with:
+
+    =>a minimum of 1GB of RAM
+    =>a non-root user with sudo privileges.
+	
+Installation Process
+------------------------------------------------------------------
+Step 1 : Installing R
+		$sudo apt-get update
+		$sudo apt-get install r-base
+		
+	To check R installation
+	$ R
+----------------------------------------------------------------
+#output:
+	R version 3.3.1 (2016-06-21) -- "Bug in Your Hair"
+	. . .
+	Type 'demo()' for some demos, 'help()' for on-line help, or
+	'help.start()' for an HTML browser interface to help.
+	Type 'q()' to quit R.
+	>
+your R installation is done !
+---------------------------------------------------------------------------------------------------
+Step 2 : Installing rstudio
+	# Go to the below link and download the RStudio Desktop Open Source License (Free for basic use).
+	https://www.rstudio.com/products/rstudio/download/
+	
+	# Install the Packeges by clicking "install packages" after download.
+	
+-----------------------------------------------------------------------------------------------------
+Now scarch rstudio in your computer click on it and enjoy.
+
+	
+
+
