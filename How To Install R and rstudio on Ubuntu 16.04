@@ -32,6 +32,13 @@ Step 2 : Installing rstudio
 	
 -----------------------------------------------------------------------------------------------------
 Now scarch rstudio in your computer click on it and enjoy.
+========================================================================================================
+Issue while installing packages:
+@install.packages("DMwR")
+=>sudo apt-get install libcurl4-openssl-dev
+
+
+
 
 	
 
